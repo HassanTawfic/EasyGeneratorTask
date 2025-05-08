@@ -21,7 +21,6 @@ Once the backend server is running, you can view and test the API using Swagger 
 
 ## 📁 Project Structure
 
-```
 
 root/
 ├── backend/     # NestJS backend
@@ -29,7 +28,6 @@ root/
 ├── setup.js     # Setup script to initialize and run the project
 └── README.md    # Project documentation
 
-````
 
 ---
 
@@ -116,13 +114,6 @@ npm run dev
 * **Permission issues on Unix systems?** Use `sudo` or ensure the correct permissions are set for files and directories.
 
 ---
-
-## 🧾 License
-
-MIT or your preferred license.
-
----
-
 
 ## 🧾 License
 
